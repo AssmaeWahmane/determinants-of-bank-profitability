@@ -97,6 +97,7 @@ Interpretation of Results
 
 # 📂 Folder Structure
 
+```text
 stata/
 │
 ├── README.md
@@ -119,8 +120,10 @@ stata/
     ├── hausman_test.txt
     ├── diagnostic_tests.pdf
     └── gls_results.docx
+```
 
 ---
+
 
 # 📜 Stata Scripts
 
